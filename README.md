@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+node v20.5.0\
+npm 9.8.0
+
+https://www.youtube.com/watch?v=lCxcTsOHrjo
+David Gray - Tailwind CSS
 
 ## Available Scripts
 
